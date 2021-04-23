@@ -26,7 +26,7 @@ p {
     margin-left: 20px;
 }
 
-nav a {
+.uk a {
     text-decoration: none;
     font-size: 20px;
     color: navy;
@@ -35,7 +35,7 @@ nav a {
     justify-content: space-evenly;
 }
 
-nav {
+.uk {
     display: flex;
     justify-content: space-evenly;
 }
@@ -45,11 +45,11 @@ nav {
     color: white;
 }
 
-nav a:hover {
+.uk a:hover {
     background-color: #b44f1e;
     color: black;
 }
 
-nav a:focus{
+.uk a:focus{
     background-color: palegreen;
 }
